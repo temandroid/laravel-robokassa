@@ -1,5 +1,5 @@
 {
-  "name": "unetway/laravel-robokassa",
+  "name": "temandroid/laravel-robokassa",
   "description": "Пакет для работы с Робокассой в Laravel",
   "keywords": [
     "robokassa",
@@ -20,7 +20,7 @@
     "guzzlehttp/guzzle": ">=6.3",
     "ext-json": "*",
     "ext-simplexml": "*",
-    "unetway/robokassa": "*"
+    "temandroid/robokassa": "*"
   },
   "autoload": {
     "psr-4": {
